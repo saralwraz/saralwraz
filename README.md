@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **adding functionality to sites I've coded**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **back-end authentication**
 
 - 📫 How to reach me **saralwraz@gmail.com**
 
