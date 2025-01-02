@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Sara Raz</h1>
 <h3 align="center">I'm a digital marketer, graphic designer, and aspiring web developer</h3>
 
-- 🔭 I’m currently working on **adding functionality to sites I've coded**
+- 🔭 I’m currently working on **connecting the front and backend elements of a website**
 
-- 🌱 I’m currently learning **back-end authentication**
+- 🌱 I’m currently learning **Cloud deployment**
 
 - 📫 How to reach me **saralwraz@gmail.com**
 
