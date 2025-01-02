@@ -16,5 +16,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![Languages and Tools:](https://skillicons.dev/icons?i=html,css,js,figma,react,express,postman,mongodb,babel,nodejs,vscode,webpack,&perline=4)](https://skillicons.dev)![image](https://github.com/user-attachments/assets/9de4442d-2dd8-4eda-9353-0098d9a8fb6f)
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
+![image](https://github.com/user-attachments/assets/c02d6ac3-18ff-4be6-be9f-f4f8c2e15606)
+
 
