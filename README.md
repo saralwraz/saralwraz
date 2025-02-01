@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my final TripleTen application, musicmood**
 
-- 🌱 I’m currently learning **Cloud deployment**
+- 🌱 I’m currently learning **how to put it all together :)**
 
 - 📫 How to reach me **saralwraz@gmail.com**
 
